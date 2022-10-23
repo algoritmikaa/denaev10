@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.htl">Главная</a>
+    </header>
+    <main>
+      <h1>Денаев Халид</h1>
+      <ul>
+        <li>люблю играть в игры такие как Arizona Mobile</li>
+        <li>люблю учится в Алгоритмике</li>
+        <li>делаю сайты</li>
+        <li>хочю стать программистом</li>
+      </ul>
+      <img src="/uploads/2021/04/sky-1871753_1280%201_0_1618254989.png" width="830px" height="550px"/>
+      <img src="/uploads/2021/04/skateboard-309603%201_0_1618254985.png" width="830px" height="300px"/>
+      <img src="https://storage.yandexcloud.net/pawnorus/monthly_2022_03/ewMyIWTJCU0.jpg.9754874b70960cca4115f5f93bb9f973.jpg" width="500px" height="500px"/>
+    </main>
+    <footer>
+      <a class="social" href=""><img src="/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
