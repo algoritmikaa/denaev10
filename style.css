@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: red;
+    height: 70px;
+}
+
+header a {
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+a {
+    color: back;
+    margin: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(77, 187, 77);
+}
+
+.link-nav {
+    color: black;
+}
+
+.social {
+    margin-bottom: 10px;
+}
